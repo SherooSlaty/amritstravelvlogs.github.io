@@ -6,3 +6,8 @@ h1{
 body{
   background-color:#Aquamarine;
 }
+/* Rounded border */
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
